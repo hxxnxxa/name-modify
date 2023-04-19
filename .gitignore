@@ -1,4 +1,2 @@
 fonts/*.ttf
-*.txt
-*.ipynb
-output/*
+text/*.txt
